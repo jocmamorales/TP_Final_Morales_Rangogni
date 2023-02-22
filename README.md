@@ -32,3 +32,29 @@ ver y manipular todo, por otro lado recepcionista, que puede administrar pacient
 dar de alta turnos, y finalmente médicos que sólo podrán ver sus turnos asociados y modificarlos para agregar las observaciones sobre el diagnóstico del paciente.
 
 ![software-gestion-clinica-970x420](https://user-images.githubusercontent.com/84431245/196691760-8b4e56c8-fad0-4391-bd8b-8cc521552899.jpg)
+
+![Principal](https://user-images.githubusercontent.com/84431245/220785935-45e95318-d093-48e5-b19a-d21134764317.png)
+
+![Loguin](https://user-images.githubusercontent.com/84431245/220785979-6f08c729-238c-4bfd-864f-7690de000cca.png)
+
+![LoguinInvitado](https://user-images.githubusercontent.com/84431245/220786000-2324001e-1c83-4266-bc94-5951b30c66d0.png)
+
+![Pantalla_Bienvenida](https://user-images.githubusercontent.com/84431245/220786020-7eebf278-48f5-4312-92e1-e767cc35f5d3.png)
+
+![Pacientes](https://user-images.githubusercontent.com/84431245/220786058-88191fc2-5d0f-46f4-a003-87090c517e00.png)
+
+![NuevoPaciente](https://user-images.githubusercontent.com/84431245/220786084-415ca52a-95aa-45b6-93da-84f2f72ec592.png)
+
+![Turnos](https://user-images.githubusercontent.com/84431245/220786116-5af25b42-3f4d-4132-9264-8bb0d3e89402.png)
+
+![NuevoTurno](https://user-images.githubusercontent.com/84431245/220786129-9f2d1aab-3c7b-4fb8-8389-ec9f521bbcbf.png)
+
+
+
+
+
+
+
+
+
+
