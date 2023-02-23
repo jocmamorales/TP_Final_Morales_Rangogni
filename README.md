@@ -1,4 +1,3 @@
-# TP_Final_Morales_Rangogni
 ## Proyecto funcional de un sistema de turnos para una clínica
 
 # Propuesta Clínica
